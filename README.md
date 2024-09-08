@@ -69,7 +69,7 @@
 3. 安装依赖
 
 ```sh
-pip install - r requirements.txt
+pip install -r requirements.txt
 ```
 
 4. 修改 `config.ini` 中的配置
